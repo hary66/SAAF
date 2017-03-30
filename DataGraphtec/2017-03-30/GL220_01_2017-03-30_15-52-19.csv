@@ -1,0 +1,29 @@
+Vendor,GRAPHTEC Corporation
+Model,GL220
+Firmware,Ver1.08
+Software, "Ver1.22"
+Sampling,100ms
+Total data points,0           
+Trigger,0           
+Start time,2017-03-30,15:02:37
+Stop time,2017-03-30,15:02:37
+Trigger time,2017-03-30,15:02:37
+AC Mode,
+Logic/Pulse,Off
+Amp setting
+CH, Signal name, Input, Range, Filter, Span
+CH1,Air IN,TEMP,TC_T,Off,200.000000,0.000000,degC
+CH2,Air OUT,TEMP,TC_T,Off,200.000000,0.000000,degC
+CH3,Temp Latérale,TEMP,TC_T,Off,200.000000,0.000000,degC
+CH4,,DC,50V,Off,25.000000,-25.000000,V
+CH5,Recopie tension SESAME,DC,10V,Off,10.000000,0.000000,V
+CH6,Pyrometre,DC,10V,Off,1000.000000,250.000000,°C
+CH7,Pression Air refroidissement,DC,10V,Off,10.000000,0.000000,bar_rel
+CH8,Debit air de refroidissement@0°,DC,10V,Off,6.500000,0.000000,g/s
+CH9,,DC,50V,Off,25.000000,-25.000000,V
+CH10,Recopie Cde EVair,DC,50V,Off,25.000000,-25.000000,V
+Data
+No., Date&Time, ms,CH1,CH2,CH3,CH4,CH5,CH6,CH7,CH8,CH9,CH10,Alarm1 - 10,AlarmOut
+NO.,Time,ms,degC,degC,degC,V,V,°C,bar_rel,g/s,V,V,A1234567890,A1
+1         ,2017-03-30 15:52:21,000,   +21.1,   +20.3,   +17.4,   +0.00,  +5.798, +251.69, +0.1731, +1.0668,   +0.01,  +23.32,LLLLLLLLLL,LLLL
+2         ,2017-03-30 15:52:21,100,   +21.1,   +20.3,   +17.3,   +0.00,  +5.798, +251.64, +0.1725, +1.0668,   +0.01,  +23.32,LLLLLLLLLL,LLLL
