@@ -3,7 +3,7 @@
 
 
 import openpyxl, pyautogui
-####ajout de détails sans importance pour essai de modif git####
+
 liste_echantillons ='/home/harold/essaiGit/SAAF/Liste Echantillons_modifiée2.xlsx'
 
 echantillon = pyautogui.prompt(text='Entrer le nom de l\'échnatillon à passer', title='Echantillon à passer' , default='echantillon')
