@@ -7,7 +7,7 @@ import openpyxl, pyautogui
 liste_echantillons ='/home/harold/essaiGit/SAAF/Liste Echantillons_modifiée2.xlsx'
 
 echantillon = pyautogui.prompt(text='Entrer le nom de l\'échnatillon à passer', title='Echantillon à passer' , default='echantillon')
-#pyautogui.prompt(text='allo', title='hello' , default='defaut')
+#pyautogui.prompt(text='allo', title='hello' , default='defaut')#
 #pyautogui.prompt(text='text', title='title', default='default')
 
 print (echantillon)
